@@ -1,5 +1,5 @@
 <p style="text-align: center">
-    <img alt="projeto rocketseat" src="imagens/phone.png" width="20%">
+    <img alt="projeto rocketseat" src="imagens/phone.png" width="20%" height="30%">
     <img alt="projeto rocketseat" src="imagens/desk.png" width="50%">
 </p>
 
