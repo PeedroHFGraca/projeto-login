@@ -1,4 +1,7 @@
-# projeto-login
+💻 Projeto Login
+Construindo uma tela inicial de login *Responsiva* ✅
 
-Construindo uma tela inicial de login *Responsiva* <br>
-Tecnologias utilizadas: HTML5 ; CSS3
+🚀 Tecnologias
+Esse projeto foi desenvolvido com as seguintes tecnologoias:
+
+HTML5 e CSS3
